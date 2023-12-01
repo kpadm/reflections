@@ -2,6 +2,8 @@
 title = 'The 26th'
 date = 2008-12-25T21:30:49-05:00
 draft = false
+tags = [ "tragedy" ]
+
 +++
 ![26](/../../img//26.png)
 

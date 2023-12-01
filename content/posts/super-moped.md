@@ -2,6 +2,8 @@
 title = 'Super Moped'
 date = 2008-05-18T09:28:50-05:00
 draft = false
+tags = ["fiction", "humor"]
+
 +++
 
 ![moped](/../../img//super-moped.jpg)

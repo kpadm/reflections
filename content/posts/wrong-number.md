@@ -2,6 +2,8 @@
 title = 'Wrong Number'
 date = 2008-07-05T21:27:24-05:00
 draft = false
+tags = ["fiction", "humor"]
+
 +++
 
 ![phone](/../../img//wrong-number.jpg)

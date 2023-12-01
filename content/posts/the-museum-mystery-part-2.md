@@ -2,6 +2,8 @@
 title = 'The Museum Mystery (Part 2)'
 date = 2008-05-24T21:02:32-05:00
 draft = false
+tags = ["fiction","mystery" ]
+
 +++
 
 ![robbery](/../../img//museum-mystery-2.png)

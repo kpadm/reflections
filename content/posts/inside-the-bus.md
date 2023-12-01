@@ -2,6 +2,8 @@
 title = 'Inside the Bus'
 date = 2008-05-22T20:56:40-05:00
 draft = false
+tags = ["fiction","love", "crush", "humor"]
+
 +++
 
 ![bus](/../../img//bus.gif)

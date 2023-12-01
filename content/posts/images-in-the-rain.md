@@ -2,6 +2,8 @@
 title = 'Images in the Rain'
 date = 2009-08-02T22:03:14-05:00
 draft = false
+tags = ["personal","tragedy"]
+
 +++
 
 ![rain](/../../img//images-in-the-rain.jpg)

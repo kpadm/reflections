@@ -2,6 +2,8 @@
 title = 'The Trip to Somewhere'
 date = 2009-07-07T22:00:14-05:00
 draft = false
+tags = ["fiction","mystery" ]
+
 +++
 
 ![village](/../../img//trip-to-somewhere.jpg)

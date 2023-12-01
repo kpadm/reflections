@@ -2,6 +2,8 @@
 title = 'When Money Flies'
 date = 2009-01-07T21:35:53-05:00
 draft = false
+tags = ["fiction", "family", "humor"]
+
 +++
 
 ![theater](/../../img//money-flies.jpg)

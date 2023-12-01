@@ -2,6 +2,8 @@
 title = '3pm'
 date = 2020-11-19T22:21:25-05:00
 draft = false
+tags = ["covid","sci-fi","fiction","love"]
+
 +++
 
 ![hospital](/../../img//3-pm.jpg)

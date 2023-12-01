@@ -2,6 +2,8 @@
 title = 'Love'
 date = 2022-01-24T22:18:47-05:00
 draft = false
+tags = ["fiction","love", "personal"]
+
 +++
 
 ![love](/../../img//love.png)

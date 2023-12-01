@@ -2,6 +2,8 @@
 title = 'A Walk Down the Street'
 date = 2008-04-22T20:12:41-05:00
 draft = false
+tags = ["war","fiction","tragedy"]
+
 +++
 
 ![walk](/../../img//walk-down-the-street.png)

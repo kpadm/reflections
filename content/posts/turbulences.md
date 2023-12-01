@@ -2,6 +2,8 @@
 title = 'Turbulences'
 date = 2008-05-27T21:11:12-05:00
 draft = false
+tags = ["fiction","tragedy" ]
+
 +++
 
 ![turbulent sky](/../../img//turbulences.jpg)

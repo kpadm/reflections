@@ -2,6 +2,8 @@
 title = "Summer of '98"
 date = 2015-09-30T22:14:48-05:00
 draft = false
+tags = ["fiction","family", "nostalgia"]
+
 +++
 
 ![titanic](/../../img//titanic.png)

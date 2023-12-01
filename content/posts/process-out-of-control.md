@@ -2,7 +2,10 @@
 title = 'Process Out of Control'
 date = 2008-05-21T17:43:27-05:00
 draft = false
+tags = ["fiction", "exams", "humor"]
+
 +++
+
 
 ![india-exams](/../../img//india-exams.jpg)
 

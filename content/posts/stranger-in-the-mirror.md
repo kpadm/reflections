@@ -2,6 +2,8 @@
 title = 'Stranger in the Mirror'
 date = 2008-05-06T02:24:43-05:00
 draft = false
+tags = ["fiction","family", "tragedy"]
+
 +++
 
 ![mirror](/../../img//stranger-mirror.jpg)

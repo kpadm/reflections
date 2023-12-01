@@ -2,6 +2,8 @@
 title = "Valentine's Day"
 date = 2009-02-14T21:44:29-05:00
 draft = false
+tags = ["fiction","love", "humor"]
+
 +++
 ![valentine](/../../img//valentine.jpg)
 

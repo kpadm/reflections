@@ -2,6 +2,8 @@
 title = 'The Story of Muthu'
 date = 2009-02-07T21:42:38-05:00
 draft = false
+tags = ["fiction","mystery", "humor" ]
+
 +++
 
 ![man](/../../img//story-of-muthu.jpg)

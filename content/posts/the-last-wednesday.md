@@ -2,6 +2,8 @@
 title = 'The Last Wednesday'
 date = 2008-12-24T21:29:18-05:00
 draft = false
+tags = ["fiction","family", "tragedy"]
+
 +++
 
 ![restaurant](/../../img//last-wednesday.jpg)

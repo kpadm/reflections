@@ -2,6 +2,8 @@
 title = 'I am a Snake'
 date = 2009-01-15T21:41:20-05:00
 draft = false
+tags = ["fiction","tragedy"]
+
 +++
 
 ![snake](/../../img//snake.jpg)

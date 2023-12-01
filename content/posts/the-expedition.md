@@ -2,6 +2,8 @@
 title = 'The Expedition'
 date = 2008-05-20T07:07:42-05:00
 draft = false
+tags = ["fiction","sci-fi", "tragedy"]
+
 +++
 
 ![ice expedition](/../../img//expedition.jpg)

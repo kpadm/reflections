@@ -2,6 +2,8 @@
 title = 'My Neighbor'
 date = 2007-08-26T12:15:19-05:00
 draft = false
+tags = ["fiction","tragedy", "family", "nostalgia"]
+
 +++
 
 ![neighbor](/../../img//my-neighbor.jpg)

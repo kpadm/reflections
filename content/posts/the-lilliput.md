@@ -2,6 +2,8 @@
 title = 'The Lilliput'
 date = 2009-03-05T21:57:24-05:00
 draft = false
+tags = ["fiction","sci-fi" ]
+
 +++
 
 ![lilliput](/../../img//lilliput.jpg)

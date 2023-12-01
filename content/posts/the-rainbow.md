@@ -2,6 +2,8 @@
 title = 'The Rainbow'
 date = 2008-12-27T21:32:15-05:00
 draft = false
+tags = ["fiction","mystery" ]
+
 +++
 
 ![rainbow](/../../img//the-rainbow.jpg)

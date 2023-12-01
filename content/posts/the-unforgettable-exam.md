@@ -2,6 +2,8 @@
 title = 'The Unforgettable Exam'
 date = 2008-05-29T21:13:20-05:00
 draft = false
+tags = ["fiction","love", "crush", "humor"]
+
 +++
 
 ![exam](/../../img//exam.jpg)

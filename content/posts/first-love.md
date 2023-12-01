@@ -2,6 +2,8 @@
 title = 'First Love'
 date = 2008-05-18T04:19:06-05:00
 draft = false
+tags = ["fiction","love", "family", "humor"]
+
 +++
 
 ![first love](/../../img//first-love.jpg)

@@ -2,6 +2,8 @@
 title = 'Game Over'
 date = 2009-08-15T22:05:32-05:00
 draft = false
+tags = ["fiction","love", "crush", "humor"]
+
 +++
 
 ![flight](/../../img//game-over.jpg)
