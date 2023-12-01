@@ -4,7 +4,7 @@ date = 2008-06-23T21:15:29-05:00
 draft = false
 +++
 
-![motorcycle](images/accidental-date.gif)
+![motorcycle](../../static/images/accidental-date.gif)
 
 "Eat something and go!" My mom shouted from the kitchen.
 

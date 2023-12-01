@@ -3,7 +3,7 @@ title = "Valentine's Day"
 date = 2009-02-14T21:44:29-05:00
 draft = false
 +++
-![valentine](images/valentine.jpg)
+![valentine](../../static/images/valentine.jpg)
 
 *My first attempt at [55Fiction](http://en.wikipedia.org/wiki/55_Fiction):*
 

@@ -3,7 +3,7 @@ title = 'The 26th'
 date = 2008-12-25T21:30:49-05:00
 draft = false
 +++
-![26](images/26.png)
+![26](../../static/images/26.png)
 
 No, no this is not my 26th post (though actually blogger displays this as my 26th in my dashboard, since I haven't published 4 other posts yet). This is about the date, the 26th, which I surmise from what I found is the unluckiest number for India.
 

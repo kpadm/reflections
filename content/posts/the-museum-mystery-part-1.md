@@ -4,7 +4,7 @@ date = 2008-05-22T20:58:37-05:00
 draft = false
 +++
 
-![Alt text](images/museum-mystery-1.png)
+![Alt text](../../static/images/museum-mystery-1.png)
 
 She was standing on top of the Eiffel tower. She was wearing a black dress, in which she looked ravishing, as usual. She looked very happy, and was calling me towards her. I went towards her with glee. I was inches away from her as her lips parted and came towards mine. Then suddenly, she started singing "Scotty doesn't know" in a coarse male voice. I couldn't get understand a thing of what was happening. Then I realized it all....
 

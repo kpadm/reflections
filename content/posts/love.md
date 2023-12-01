@@ -4,7 +4,7 @@ date = 2022-01-24T22:18:47-05:00
 draft = false
 +++
 
-![love](images/love.png)
+![love](../../static/images/love.png)
 
 Love. It is very hard isn't it? Being in love. It certainly brings unbound joy and amazing experiences on several occasions. But sometimes, it only gives you pain and sadness. And during those especially sad moments, it is incredibly painful and agonizing. You can tell fairy tales are made up simply because most of them do not talk about these hard times. They mostly focus on the happily ever afters.
  

@@ -4,7 +4,7 @@ date = 2008-05-21T17:43:27-05:00
 draft = false
 +++
 
-![india-exams](images/india-exams.jpg)
+![india-exams](../../static/images/india-exams.jpg)
 
 The bell rang exactly at 2 o clock, signaling the start of my Process Control exam. The examiner started giving out the question paper. I had hardly prepared for the exam, with it being the last, I had already gotten into a holiday mood when I had written my previous exam. This being the toughest paper in the semester and having the highest number of credits, all my friends were breaking their head trying to memorize all the formulae and work out all the problems given in the reference books. 
 
