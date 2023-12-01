@@ -4,6 +4,8 @@ title = 'Reflections'
 theme = 'archie'
 copyright = "© Karthik Ramaswamy Padmanabhan"
 
+canonifyURLs = true
+
 paginate=4 # articles per page
 
 [params]

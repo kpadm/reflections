@@ -4,7 +4,7 @@ date = 2008-07-05T21:27:24-05:00
 draft = false
 +++
 
-![phone](../../static/images/wrong-number.jpg)
+![phone](/../../img//wrong-number.jpg)
 
 The time was exactly 11 PM when the phone rang. Its shrill ring filled the house and I rushed and picked up the receiver before mom and dad could wake up.
 

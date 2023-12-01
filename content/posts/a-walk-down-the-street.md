@@ -4,7 +4,7 @@ date = 2008-04-22T20:12:41-05:00
 draft = false
 +++
 
-![walk](../../static/images/walk-down-the-street.png)
+![walk](/../../img//walk-down-the-street.png)
 
 It was a pleasant evening. The wind was cool and the sun was mild. The usually crowded street was empty except a few dry leaves stained with blood and a couple of empty magazines. Almost all the buildings were in ruins. Some were completely destroyed. She remembered that, not very long back, the street was full of people. Happy people, who were always ready to help others. Very few of them were now alive.
 

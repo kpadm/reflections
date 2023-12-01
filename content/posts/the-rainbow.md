@@ -4,7 +4,7 @@ date = 2008-12-27T21:32:15-05:00
 draft = false
 +++
 
-![rainbow](../../static/images/the-rainbow.jpg)
+![rainbow](/../../img//the-rainbow.jpg)
 
 The air inside the room carried the odour of a dead rat. Not that it mattered much. That was all he could afford. His troupe had been in dire straits for the past ten years. But he was forever an optimist. He always told them that there would be a miracle. And there would be money. Though it all sounded encouraging then, now it seemed a lot hollow. But he still had hope, and he still hoped for that miracle to occur. May be not today, but tomorrow perhaps.
 

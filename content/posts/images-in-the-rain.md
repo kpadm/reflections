@@ -4,7 +4,7 @@ date = 2009-08-02T22:03:14-05:00
 draft = false
 +++
 
-![rain](../../static/images/images-in-the-rain.jpg)
+![rain](/../../img//images-in-the-rain.jpg)
 
 It had been an unusually hot afternoon. So, it was no surprise that it grew dark and cloudy by late evening. With hardly five days left to start, I had to get a photocopy of all the important documents. But by the time I decided to step out of my home to do my task, I started to drizzle a lot. Therefore, I went back home, ditched my plans of going to the photocopy shop by my bike, took an umbrella and decided to walk all the way. Not that it was too far away. It was hardly a ten minute walk.
 

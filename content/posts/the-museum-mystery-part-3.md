@@ -4,7 +4,7 @@ date = 2008-05-25T21:07:18-05:00
 draft = false
 +++
 
-![naughty-dog](../../static/images/museum-mystery-3.png)
+![naughty-dog](/../../img//museum-mystery-3.png)
 
 *If you missed out on [Part 1](the-museum-mystery-part-1.md) and [Part 2](the-museum-mystery-part-2.md), please click on the respective links to read it.*
 

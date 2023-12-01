@@ -4,7 +4,7 @@ date = 2009-07-07T22:00:14-05:00
 draft = false
 +++
 
-![village](../../static/images/trip-to-somewhere.jpg)
+![village](/../../img//trip-to-somewhere.jpg)
 
 The bus finally screeched to a halt by late evening. We were starving. It had been a nine hour travel, with no stops in between. The roads had been terrible, and the bus equally pathetic. All of us were suffering from backache, and we badly needed food and some sleep. We set off in search of a hotel.
 

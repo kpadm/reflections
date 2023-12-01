@@ -4,7 +4,7 @@ date = 2009-02-07T21:42:38-05:00
 draft = false
 +++
 
-![man](../../static/images/story-of-muthu.jpg)
+![man](/../../img//story-of-muthu.jpg)
 
 Muthu was an ordinary individual. He was as ordinary as you and me, and all other ordinary human beings in the world. Muthu was a trader. He was always honest, and never tried to cheat any of his customers. He wouldn't even think about it. All his goods were of top quality, and so all the people flocked to buy his wares. He sold them very cheap, and so didn't get much profit. He, therefore, still remained a poor man, since the earnings were hardly enough to feed himself and his family of a wife and two kids.
 
