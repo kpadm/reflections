@@ -4,7 +4,7 @@ date = 2007-08-26T12:15:19-05:00
 draft = false
 +++
 
-![neighbor](../../content/images/my-neighbor.jpg)
+![neighbor](../images/my-neighbor.jpg)
 
 Mention childhood, and all of us become nostalgic. Everyone gets reminded of their school days, their friends and the games they used to play. But my childhood was different. It had one important person I can never forget in my life- Lakshmi aunty.
 

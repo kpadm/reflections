@@ -4,7 +4,7 @@ date = 2008-05-29T21:13:20-05:00
 draft = false
 +++
 
-![exam](../../content/images/exam.jpg)
+![exam](../images/exam.jpg)
 
 It was the day of my last exam after which the summer holidays were about to begin. My parents had already planned a trip to Ooty during the holidays, and I was too preoccupied with it, that I hardly prepared for the exam. Not that the exam needed preparation. The subject was General Knowledge, in which I was the topper, every time. I was also good in quizzing, and my general knowledge was much higher than that of an average seventh class student.
 

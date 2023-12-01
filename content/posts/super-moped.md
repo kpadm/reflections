@@ -4,7 +4,7 @@ date = 2008-05-18T09:28:50-05:00
 draft = false
 +++
 
-![moped](../../content/images/super-moped.jpg)
+![moped](../images/super-moped.jpg)
 
 We reached the usual place where we regularly had lemon juice at around eight o clock. It was another hard day at the tuition center. There was a surprise test in chemistry, and we couldn't answer even one question. As usual, we ordered each of us a lemon juice and were seriously thinking about what we were going to do in the Board exams, even if they were half as tough.
 

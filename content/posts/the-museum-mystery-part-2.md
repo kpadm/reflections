@@ -4,7 +4,7 @@ date = 2008-05-24T21:02:32-05:00
 draft = false
 +++
 
-![robbery](../../content/images/museum-mystery-2.png)
+![robbery](../images/museum-mystery-2.png)
 
 *For those of you who missed Part 1, please click [here](the-museum-mystery-part-1.md) to read it.*
 

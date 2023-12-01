@@ -4,7 +4,7 @@ date = 2008-05-06T02:24:43-05:00
 draft = false
 +++
 
-![mirror](../../content/images/stranger-mirror.jpg)
+![mirror](../images/stranger-mirror.jpg)
 
 It was late in the evening when I entered the crowded street. It was unusually more crowded that day. The more the crowd, the better, I thought to myself. The streets were not only full of people, but also of rotten vegetables and fruits, and other such waste. I negotiated the crowds carefully and after a walk of five minutes, reached the designated place.
 

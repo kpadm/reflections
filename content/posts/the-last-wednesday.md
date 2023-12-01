@@ -4,7 +4,7 @@ date = 2008-12-24T21:29:18-05:00
 draft = false
 +++
 
-![restaurant](../../content/images/last-wednesday.jpg)
+![restaurant](../images/last-wednesday.jpg)
 
 The last rays of the winter sun fell on the window beside me when my cell phone started ringing. It was Akhilesh.
 

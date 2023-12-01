@@ -4,7 +4,7 @@ date = 2008-05-27T21:11:12-05:00
 draft = false
 +++
 
-![turbulent sky](../../content/images/turbulences.jpg)
+![turbulent sky](../images/turbulences.jpg)
 
 The sky grew darker as I stepped out from the elevator on to the terrace. A strong wind was blowing across my face and dark clouds were gathering everywhere. I felt as if the sky reflected the situation inside my mind. Life was so perfect, some years back. The company was doing good and his family life was so happy. Everything was moving as if nothing could go wrong. Then, everything went wrong.
 

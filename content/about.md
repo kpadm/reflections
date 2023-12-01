@@ -4,7 +4,7 @@ date = 2023-11-30T21:13:20-05:00
 draft = false
 +++
 
-![profile](../content/images/profile.jpg)
+![profile](images/profile.jpg)
 
 Hello, I'm Karthik Ramaswamy Padmanabhan, a Bioinformatics Engineer navigating the fascinating intersection of biology and data. Beyond the world of algorithms and DNA sequences, I find solace and joy in a myriad of interests.
 

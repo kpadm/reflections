@@ -4,7 +4,7 @@ date = 2010-01-30T22:11:52-05:00
 draft = false
 +++
 
-![food-court](../../content/images/food-court.jpg)
+![food-court](../images/food-court.jpg)
 
 I hated to work on Saturday evenings. Especially since all my roommates would be enjoying in Kilroy's Sports Bar, while I would be cleaning up trash, or serving burritos. That Saturday, I was put up at the Italian food joint, and it was particularly busy. I had never seen so much crowd before, and it was tiring. The only solace was that Hafize was working in a place right opposite to mine.
 
