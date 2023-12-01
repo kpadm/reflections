@@ -15,7 +15,7 @@ paginate=4 # articles per page
 name = "X"
 icon = "twitter"
 url = "https://twitter.com/karthographer/"
-favicon = "/img/favicon.ico"  
+favicon = "favicon.ico"  
 
 
 [[params.social]]
