@@ -4,7 +4,7 @@ date = 2009-01-15T21:41:20-05:00
 draft = false
 +++
 
-![snake](../images/snake.jpg)
+![snake](images/snake.jpg)
 
 My pleasant salutations to all the human beings out there. My name is Raven, and I am a King Cobra. Yes, I am a snake.
 

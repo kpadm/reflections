@@ -4,7 +4,7 @@ date = 2008-05-18T04:19:06-05:00
 draft = false
 +++
 
-![first love](../images/first-love.jpg)
+![first love](images/first-love.jpg)
 
 Love was something that never appealed to me. Since the time I entered college, people all around me were falling in love. I thought it was all stupidity when people described love as divine, everything in life. Every time when I heard of some guy who had committed suicide just because his love wouldn't accept him, I felt as if I should go and slap him in heaven or hell, wherever he is. How the hell he forgot his parents, who were alive only for him to succeed in life?? In a nutshell, I loathed love, and once even swore to my friends that I will never fall in love in my life. All this was true, until I saw her.
 

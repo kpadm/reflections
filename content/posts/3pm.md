@@ -4,7 +4,7 @@ date = 2020-11-19T22:21:25-05:00
 draft = false
 +++
 
-![hospital](../images/3-pm.jpg)
+![hospital](images/3-pm.jpg)
 
 *Ding, dong!*
 

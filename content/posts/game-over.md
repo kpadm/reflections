@@ -4,7 +4,7 @@ date = 2009-08-15T22:05:32-05:00
 draft = false
 +++
 
-![flight](../images/game-over.jpg)
+![flight](images/game-over.jpg)
 
 "Welcome to Indianapolis!", the driver announced as the shuttle entered the airport. Though it was the second time I was going to Indy, something about the place looked unfamiliar to me. Maybe it was the weather? I didn't know. It was kind of chill and foggy when I got down from the shuttle. There was the scent of rain, but I hoped it wouldn't rain, at least not till I get back inside the safety of my apartment.
 

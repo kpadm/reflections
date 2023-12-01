@@ -4,7 +4,7 @@ date = 2008-05-20T07:07:42-05:00
 draft = false
 +++
 
-![ice expedition](../images/expedition.jpg)
+![ice expedition](images/expedition.jpg)
 
 It was our fifth day aboard USS Kentucky. The dipping temperature told us that we weren't too far from our destination. It wasn't exactly a smooth voyage. We had encountered a horrible storm near French Polynesia, and another in the middle of the South Pacific Ocean. It was noon, but the climate was so cold that we had to wear layers of warm clothing.
 

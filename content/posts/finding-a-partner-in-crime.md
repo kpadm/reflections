@@ -4,7 +4,7 @@ date = 2023-03-30T22:26:25-05:00
 draft = false
 +++
 
-![man](../images/partner-in-crime.png)
+![man](images/partner-in-crime.png)
 
 "You gents need some women in your life." I heard Melissa's voice coming from inside the bathroom. "I have not seen a dirtier place in my life."
 

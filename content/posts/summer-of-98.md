@@ -4,7 +4,7 @@ date = 2015-09-30T22:14:48-05:00
 draft = false
 +++
 
-![titanic](../images/titanic.png)
+![titanic](images/titanic.png)
 
 The giant clock in the living room read 4.55 pm as Shenaz Treasuryvala chose yet another ridiculous-looking letter from out of her pile. Ten year old Nitin closed his eyes. He couldn't take the suspense. He knew that everyone else in the room was tense too. He could hear his eldest cousin sitting next to him silently uttering a prayer to the Almighty under her breath. *Please be the Titanic song. Please be the Titanic song.*
 

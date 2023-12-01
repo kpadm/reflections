@@ -4,7 +4,7 @@ date = 2009-03-05T21:57:24-05:00
 draft = false
 +++
 
-![lilliput](../images/lilliput.jpg)
+![lilliput](images/lilliput.jpg)
 
 *Saturday, July 11 2009*
 

@@ -4,7 +4,7 @@ date = 2009-01-07T21:35:53-05:00
 draft = false
 +++
 
-![theater](../images/money-flies.jpg)
+![theater](images/money-flies.jpg)
 
 "So, where shall we go?" my eldest sister, Radhika, asked no one in particular. 
 

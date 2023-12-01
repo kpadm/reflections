@@ -4,6 +4,8 @@ date = 2008-05-22T20:56:40-05:00
 draft = false
 +++
 
+![bus](images/bus.gif)
+
 It was a really hot day. The bus stop was crowded and there wasn't any bus in sight. I was sweating profusely and my shirt had already become wet. I was praying that a bus should come soon, when I saw her crossing the road from the college gate towards the bus stop.
 
 Anjana was my classmate and the prettiest girl in my college. Though we were classmates, I hardly spoke to her and she could, at best, be classified just as my acquaintance. But I harbored a big crush on her and though I tried to keep it to myself, some of my classmates came to know of it since I drooled at her quite openly. As it happens always, they started to tease me with her in class. Anyways, I somehow felt that she knew that I was drooling at her.
