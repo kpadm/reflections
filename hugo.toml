@@ -1,4 +1,4 @@
-baseURL = 'https://blog.karthikrp.com'
+baseURL = 'https://blog.karthikrp.com/'
 languageCode = 'en-us'
 title = 'Reflections'
 theme = 'archie'
