@@ -2,6 +2,8 @@
 title = 'Finding a Partner in Crime'
 date = 2023-03-30T22:26:25-05:00
 draft = false
+tags = ["crush","date","fiction","humor","love","personal"]
+
 +++
 
 ![man](/../../img/partner-in-crime.png)
